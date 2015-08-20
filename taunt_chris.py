@@ -24,6 +24,3 @@ while True:
 	
 
 
-#for i in page.text.split('\n'):
-#	if i[0].isalpha():
-#		print(i)
